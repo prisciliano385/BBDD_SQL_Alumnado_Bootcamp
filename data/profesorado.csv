@@ -1,11 +1,11 @@
-id_profesor,nombre,rol
-0,Noa Yáñez,TA
-1,Saturnina Benitez,TA
-2,Anna Feliu,TA
-3,Rosalva Ayuso,TA
-4,Ana Sofía Ferrer,TA
-5,Angélica Corral,TA
-6,Ariel Lledó,TA
-7,Mario Prats,LI
-8,Luis Ángel Suárez,LI
-9,María Dolores Diaz,LI
+nombre,rol
+Noa Yáñez,TA
+Saturnina Benitez,TA
+Anna Feliu,TA
+Rosalva Ayuso,TA
+Ana Sofía Ferrer,TA
+Angélica Corral,TA
+Ariel Lledó,TA
+Mario Prats,LI
+Luis Ángel Suárez,LI
+María Dolores Diaz,LI
